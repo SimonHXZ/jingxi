@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>一个所有人都引用、却没人验算的数字</title>
+      <link>posts/wander-02.html</link>
+      <guid isPermaLink="false">wander-02</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Thu, 29 Oct 2026 04:00:00 +0000</pubDate>
+      <description>「应县木塔有 54 种斗拱」——我回头找它的原始出处，找到的是引用，不是清点。</description>
+    </item>
+
+    <item>
       <title>两个我合成一个，家里多了间游戏室</title>
       <link>posts/renovation-02.html</link>
       <guid isPermaLink="false">renovation-02</guid>
