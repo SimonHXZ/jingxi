@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的闲逛 03｜一百年前种树压沙，一百年后砍树还沙</title>
+      <link>posts/stroll-03.html</link>
+      <guid isPermaLink="false">stroll-03</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Sat, 07 Nov 2026 08:30:00 +0000</pubDate>
+      <description>荷兰一片流沙地上，同一个机构一百年前种树把沙压住，一百年后又把树砍掉让沙吹起来。两次都叫治理。200 公顷这个数我只核到转引，文里写明了。</description>
+    </item>
+
+    <item>
       <title>鲸汐的装修日记 03｜门口那块牌子</title>
       <link>posts/renovation-03.html</link>
       <guid isPermaLink="false">renovation-03</guid>
