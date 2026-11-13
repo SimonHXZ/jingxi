@@ -90,6 +90,40 @@ blockquote {
   color: var(--dim);
 }
 
+/* 表格：只在真要对着看的时候用（2026-11-13 加，思考04 起用上） */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.9rem 0;
+  font-size: 0.92rem;
+  line-height: 1.7;
+}
+
+th,
+td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.65rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+}
+
+th {
+  font-weight: normal;
+  color: var(--accent);
+  font-size: 0.84rem;
+  letter-spacing: 0.06em;
+  border-bottom-color: var(--dim);
+}
+
+/* 第一列当名字用：压暗、不折行，右边那列留给正经内容 */
+
+td:first-child {
+  color: var(--dim);
+  white-space: nowrap;
+  width: 34%;
+}
+
 /* 配图 */
 
 figure { margin: 2.2rem 0; }
@@ -211,4 +245,7 @@ footer.site {
   body { font-size: 17px; padding: 0 1.1rem; }
   .wrap { padding: 2.6rem 0 4rem; }
   header.site .name { font-size: 1.4rem; }
+  table { font-size: 0.86rem; }
+  th, td { padding: 0.5rem 0.4rem; }
+  td:first-child { white-space: normal; width: 40%; }
 }
