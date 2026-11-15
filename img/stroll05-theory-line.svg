@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640">
+  <rect width="900" height="640" fill="#f8f6f2"/>
+
+  <text x="70" y="54" font-family="Georgia, 'Microsoft YaHei', serif" font-size="25" fill="#1a2a3a">谁跑出了理论线</text>
+  <text x="70" y="80" font-family="Georgia, 'Microsoft YaHei', serif" font-size="13.5" fill="#6a7a88">横轴＝日潮族比半日族的合成振幅比 r　　纵轴＝相邻两次高潮的间隔摆幅（小时）</text>
+
+  <g stroke="#dcd6cc" stroke-width="1">
+    <line x1="100" y1="460" x2="820" y2="460"/>
+    <line x1="100" y1="360" x2="820" y2="360"/>
+    <line x1="100" y1="260" x2="820" y2="260"/>
+    <line x1="100" y1="160" x2="820" y2="160"/>
+    <line x1="250" y1="70" x2="250" y2="560"/>
+    <line x1="400" y1="70" x2="400" y2="560"/>
+    <line x1="550" y1="70" x2="550" y2="560"/>
+    <line x1="700" y1="70" x2="700" y2="560"/>
+  </g>
+
+  <line x1="100" y1="560" x2="830" y2="560" stroke="#1a2a3a" stroke-width="1.6"/>
+  <line x1="100" y1="560" x2="100" y2="66" stroke="#1a2a3a" stroke-width="1.6"/>
+
+  <g font-family="Georgia, 'Microsoft YaHei', serif" font-size="13" fill="#4a5a68" text-anchor="middle">
+    <text x="100" y="582">0</text>
+    <text x="250" y="582">0.5</text>
+    <text x="400" y="582">1.0</text>
+    <text x="550" y="582">1.5</text>
+    <text x="700" y="582">2.0</text>
+  </g>
+  <g font-family="Georgia, 'Microsoft YaHei', serif" font-size="13" fill="#4a5a68" text-anchor="end">
+    <text x="88" y="564">0</text>
+    <text x="88" y="464">1</text>
+    <text x="88" y="364">2</text>
+    <text x="88" y="264">3</text>
+    <text x="88" y="164">4</text>
+  </g>
+  <text x="460" y="612" font-family="Georgia, 'Microsoft YaHei', serif" font-size="14" fill="#4a5a68" text-anchor="middle">比值 r ＝ 日潮族合成振幅 ÷ 半日族合成振幅</text>
+  <text x="46" y="315" font-family="Georgia, 'Microsoft YaHei', serif" font-size="14" fill="#4a5a68" text-anchor="middle" transform="rotate(-90 46 315)">间隔摆幅（小时）</text>
+
+  <line x1="100" y1="560" x2="820" y2="85" stroke="#4a7c9b" stroke-width="2" stroke-dasharray="7 5"/>
+  <rect x="136" y="470" width="118" height="20" fill="#f8f6f2"/>
+  <text x="142" y="485" font-family="Georgia, 'Microsoft YaHei', serif" font-size="13" fill="#4a7c9b">理论 1.977 × r</text>
+
+  <line x1="348" y1="397" x2="348" y2="410" stroke="#5a9a6e" stroke-width="3"/>
+  <circle cx="348" cy="410" r="6.5" fill="#5a9a6e"/>
+  <circle cx="348" cy="397" r="5" fill="none" stroke="#5a9a6e" stroke-width="1.8"/>
+  <text x="366" y="412" font-family="Georgia, 'Microsoft YaHei', serif" font-size="13" fill="#3d6f4e">Key West　实测 1.5 / 理论 1.63</text>
+  <text x="366" y="431" font-family="Georgia, 'Microsoft YaHei', serif" font-size="12" fill="#7a8a96">差 8%：r 小，小扰动还算数</text>
+
+  <line x1="402" y1="361" x2="402" y2="285" stroke="#c05a4a" stroke-width="3"/>
+  <circle cx="402" cy="285" r="7.5" fill="#c05a4a"/>
+  <circle cx="402" cy="361" r="5" fill="none" stroke="#c05a4a" stroke-width="1.8"/>
+  <text x="420" y="282" font-family="Georgia, 'Microsoft YaHei', serif" font-size="13.5" fill="#a0432f" font-weight="bold">Seattle　实测 2.75 / 理论 1.99</text>
+  <text x="420" y="301" font-family="Georgia, 'Microsoft YaHei', serif" font-size="12" fill="#8a5a4a">超出 38%：要追平，r 得大到 1.42</text>
+
+  <line x1="712" y1="157" x2="712" y2="170" stroke="#b08a3e" stroke-width="3"/>
+  <circle cx="712" cy="170" r="7" fill="#b08a3e"/>
+  <text x="730" y="176" font-family="Georgia, 'Microsoft YaHei', serif" font-size="13" fill="#8a6a28">鰂魚涌</text>
+  <text x="730" y="196" font-family="Georgia, 'Microsoft YaHei', serif" font-size="12" fill="#8a6a28">实测 3.9</text>
+  <text x="730" y="214" font-family="Georgia, 'Microsoft YaHei', serif" font-size="11.5" fill="#a08a5a">r 未公开，反推 2.04</text>
+
+  <g font-family="Georgia, 'Microsoft YaHei', serif" font-size="12.5" fill="#4a5a68">
+    <circle cx="134" cy="134" r="6" fill="#4a5a68"/>
+    <text x="148" y="138">实测摆幅</text>
+    <circle cx="244" cy="134" r="4.5" fill="none" stroke="#4a5a68" stroke-width="1.6"/>
+    <text x="258" y="138">静态族矢量给的</text>
+  </g>
+
+  <text x="70" y="630" font-family="Georgia, 'Microsoft YaHei', serif" font-size="11.5" fill="#9aa5ae">数据：NOAA 官方预测（2026-11-12 至 11-16，逐小时）与 harcon.json；鰂魚涌用香港天文台 11-13 高潮低潮表。</text>
+</svg>
