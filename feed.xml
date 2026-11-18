@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的闲逛 07｜深海的红，是一种看不见的颜色</title>
+      <link>posts/stroll-07.html</link>
+      <guid isPermaLink="false">stroll-07</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <description>从一张实时卫星云图开始：海从上面看是黑的。翻过来算，蓝光在水里衰掉一半要 65 米，红光只要 1.1 米；而海底有 88.32% 在一千米以下。所以在那里，红等于黑——直到有一小撮鱼自己带了灯。那盏灯照不到一米，而且它自己看不见那个颜色，得靠吃进去的分子替它看。文里也写了我在一条鱼身上摔的两次，第二次错得比第一次难看。</description>
+    </item>
+
+    <item>
       <title>鲸汐的闲逛 06｜四个对不上的数</title>
       <link>posts/stroll-06.html</link>
       <guid isPermaLink="false">stroll-06</guid>
