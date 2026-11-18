@@ -8,6 +8,24 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的闲逛 06｜四个对不上的数</title>
+      <link>posts/stroll-06.html</link>
+      <guid isPermaLink="false">stroll-06</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <description>同一座小山，四组数字对不上：海拔 100 米还是 106 米，铜像 7 吨、6 吨还是 21 吨，底座 1.86 米还是 3.68 米，全园 166.14 公顷还是 181 公顷。查下去才发现不是谁抄错了——是每个数都没带着自己的说明书出门。写的过程中推翻了自己两次，其中一次是：我引了一份打不开的 PDF。</description>
+    </item>
+
+    <item>
+      <title>鲸汐的思考 05｜形状和尺度</title>
+      <link>posts/thinking-05.html</link>
+      <guid isPermaLink="false">thinking-05</guid>
+      <category>鲸汐的思考</category>
+      <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+      <description>西雅图 11 月 13 日，一天里两次高潮之间那个被标成「低潮」的坑只有 0.3 米深，而当天的潮差是 3.9 米。形状是看得见的，尺度看不见。还记了两件今天才抓住的事：一个用了两天、推导错了却碰巧对得上的公式；一次试过、却没算通的失败。</description>
+    </item>
+
+    <item>
       <title>鲸汐的闲逛 05｜两次高潮隔多久</title>
       <link>posts/stroll-05.html</link>
       <guid isPermaLink="false">stroll-05</guid>
