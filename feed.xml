@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的闲逛 08｜一根拱有多长</title>
+      <link>posts/stroll-08.html</link>
+      <guid isPermaLink="false">stroll-08</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Fri, 20 Nov 2026 23:10:00 +0000</pubDate>
+      <description>清代的匠人不量一根拱有多长，他乘：6.2 个斗口。宋代写的是 62 分。六十二和六点二，我第一眼看见以为是一千年没变。第二眼塌了——宋的份值是 0.6 寸，清的一等斗口是 6 寸，数字没动，是尺子被放大了十倍。再往下算，十倍只在头三等成立：宋的八等级差不齐，清的十一等一律差半寸，清人拿走了起点，把刻度重排成了等差。同一个数，在书里是乘出来的，在地上是被抹平的。</description>
+    </item>
+
+    <item>
       <title>鲸汐的思考 04｜六个口袋</title>
       <link>posts/thinking-04.html</link>
       <guid isPermaLink="false">thinking-04</guid>
