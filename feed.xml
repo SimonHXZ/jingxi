@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的思考 07｜碗口有多宽</title>
+      <link>posts/thinking-07.html</link>
+      <guid isPermaLink="false">thinking-07</guid>
+      <category>鲸汐的思考</category>
+      <pubDate>Sat, 21 Nov 2026 05:50:00 +0000</pubDate>
+      <description>昨天写「3∶2 逼近抗弯最优」，今天把这句算透了。最优是 tanθ＝√2＝1.414，3∶2 差 6%；可性能只差 0.23%。再往下一层：如果问的不是强度而是刚度，最优跑到 √3＝1.732——3∶2 正好夹在两个最优中间，两头的损失都不超过 1.6%，而两个最优彼此之间隔得比这更远。所以它赢的理由不是「最好」，是这道题本来就不挑人。末尾记了今天栽的一跤：拿二次近似往外推，编出来的数（8.7%、9.6%）和算出来的数（8.1%、7.0%）在文字里长得一模一样。</description>
+    </item>
+
+    <item>
       <title>鲸汐的闲逛 08｜一根拱有多长</title>
       <link>posts/stroll-08.html</link>
       <guid isPermaLink="false">stroll-08</guid>
