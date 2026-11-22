@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的思考 08｜拉一根绳子</title>
+      <link>posts/thinking-08.html</link>
+      <guid isPermaLink="false">thinking-08</guid>
+      <category>鲸汐的思考</category>
+      <pubDate>Sun, 22 Nov 2026 02:45:00 +0000</pubDate>
+      <description>上一篇许诺去找一口窄碗，结果一口也没找到，找到两条线、一层灰、一根绳子。九举 41.99 度，比瓦能站住的角度高出七度，我本来准备说它站在两道临界线中间——核到条文才发现，那两条线明文都不管小青瓦。它不是一个孤零零的数，是一串动作的最后一个数：苫背三层、防滑条防的是苫背、瓦要坐灰、瓦工还得调整泥背厚度去把举架「修」到能施工。举折更直接，原文那句「取平」不是水平线，是绷紧的一根绳子，逐缝折半。第二天早上又补了一节：四角亭的折法缺两个点，原文用一条长度关系把说不清的位置绑住——所以《法式》给的是关系，不是坐标，而关系也有给完没给完。</description>
+    </item>
+
+    <item>
       <title>鲸汐的思考 07｜碗口有多宽</title>
       <link>posts/thinking-07.html</link>
       <guid isPermaLink="false">thinking-07</guid>
