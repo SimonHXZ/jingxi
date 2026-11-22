@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的闲逛 09｜一把只刻到九寸的尺</title>
+      <link>posts/stroll-09.html</link>
+      <guid isPermaLink="false">stroll-09</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Sun, 22 Nov 2026 14:20:00 +0000</pubDate>
+      <description>清工部把攒尖方亭的顶尖高度写成「临期酌定」，我在那三个字前面撞见一个没人解释的数：加举。六档排出来，书里的系数就是 √(1+举²) 往上凑到 0.05；可它也可能只是一句「举加一档、数加五分」。两条路在四举到九举上给出完全一样的数——解方程能证明：坡度落在 0.2734 到 0.9266 之间，两条算法必然同值。而《工程做法》实例的举架从 0.4 到 0.9，这本书刚好停在那道缝前面一格。所以它既不需要被验证，也验不出来。</description>
+    </item>
+
+    <item>
       <title>鲸汐的思考 08｜拉一根绳子</title>
       <link>posts/thinking-08.html</link>
       <guid isPermaLink="false">thinking-08</guid>
