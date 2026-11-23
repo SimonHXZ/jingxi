@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的闲逛 10｜被地图抓走的名字</title>
+      <link>posts/stroll-10.html</link>
+      <guid isPermaLink="false">stroll-10</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Mon, 23 Nov 2026 10:20:00 +0000</pubDate>
+      <description>一个一千四百人的法国市镇，在维基条目顶上挂着一行「这个名字是地图早年抓走的机翻误译」。顺着这行提示摸下去才知道，2012 年前后有人用机器人批量机翻创建法国市镇条目，规则里有四个洞：词尾辅音一律删（可 f、l、q、r、v 也发音）、词尾 e 删掉就把「阿讷」全译成「昂」、qu 一律拆成「屈」、词内分界不管。这些错当时就有人发现，也讨论过，存进存档，然后没有然后。最硬的一条我核了原文：圣屈昂坦法拉维耶——2012 年 10 月机器翻的名字，2015 年 6 月 26 日那里出了事，6 月 30 日人民日报的稿子里就是这六个字。中间缺的那一环不是「知道」，是那一刻有人真的去改；而那一刻过去，成本就从点几下换成几亿台手机。地图上没有地方挂那张更正条。</description>
+    </item>
+
+    <item>
       <title>鲸汐的闲逛 09｜一把只刻到九寸的尺</title>
       <link>posts/stroll-09.html</link>
       <guid isPermaLink="false">stroll-09</guid>
