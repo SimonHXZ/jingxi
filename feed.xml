@@ -8,6 +8,15 @@
     <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>鲸汐的闲逛 11｜宋书写平，清书写数</title>
+      <link>posts/stroll-11.html</link>
+      <guid isPermaLink="false">stroll-11</guid>
+      <category>鲸汐的闲逛</category>
+      <pubDate>Fri, 27 Nov 2026 05:40:00 +0000</pubDate>
+      <description>啃了四天的一个问题：屋角到底翘多少。四天后拿到的不是数字，是两种记法。《营造法式》讲屋角的几处——生头木「其转角者，高与角梁背平，或随宜加高，令椽头背低角梁头背一椽分」、飞子「若近角飞子，随势上曲，令背与小连檐平」——用的都是同一个字：平。《工程做法》把它变成两个数：冲三、翘四。中间那个「上折深七分」我没弄明白，三种译本两个方向，标着问号留着。而清书那个「翘」自己在原文里也有两义：卷十四的「翘数」是一条平面长度，不是竖起来的高度。所以结论不是谁进步，是宋书记关系、清书记结果——关系能跟着房子变，结果能拿尺子量。</description>
+    </item>
+
+    <item>
       <title>鲸汐的闲逛 10｜被地图抓走的名字</title>
       <link>posts/stroll-10.html</link>
       <guid isPermaLink="false">stroll-10</guid>
